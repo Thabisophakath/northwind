@@ -1,0 +1,23 @@
+C:\Users\Abc\AppData\Local\Temporary Projects\Nothwind WareHouse Program\bin\Debug\Nothwind WareHouse Program.exe
+C:\Users\Abc\AppData\Local\Temporary Projects\Nothwind WareHouse Program\bin\Debug\Nothwind WareHouse Program.pdb
+C:\Users\Abc\AppData\Local\Temporary Projects\Nothwind WareHouse Program\bin\Debug\Nothwind WareHouse Program.xml
+C:\Users\Abc\AppData\Local\Temporary Projects\Nothwind WareHouse Program\obj\x86\Debug\Nothwind_WareHouse_Program.Form1.resources
+C:\Users\Abc\AppData\Local\Temporary Projects\Nothwind WareHouse Program\obj\x86\Debug\Nothwind_WareHouse_Program.Resources.resources
+C:\Users\Abc\AppData\Local\Temporary Projects\Nothwind WareHouse Program\obj\x86\Debug\Nothwind WareHouse Program.vbproj.GenerateResource.Cache
+C:\Users\Abc\AppData\Local\Temporary Projects\Nothwind WareHouse Program\obj\x86\Debug\Nothwind WareHouse Program.exe
+C:\Users\Abc\AppData\Local\Temporary Projects\Nothwind WareHouse Program\obj\x86\Debug\Nothwind WareHouse Program.xml
+C:\Users\Abc\AppData\Local\Temporary Projects\Nothwind WareHouse Program\obj\x86\Debug\Nothwind WareHouse Program.pdb
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\obj\x86\Debug\Nothwind WareHouse Program.exe
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\obj\x86\Debug\Nothwind WareHouse Program.xml
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\obj\x86\Debug\Nothwind WareHouse Program.pdb
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\bin\Debug\LoginDeatails.mdb
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\bin\Debug\Nothwind WareHouse Program.exe.config
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\bin\Debug\Nothwind WareHouse Program.exe
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\bin\Debug\Nothwind WareHouse Program.pdb
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\bin\Debug\Nothwind WareHouse Program.xml
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\obj\x86\Debug\Nothwind_WareHouse_Program.Form1.resources
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\obj\x86\Debug\Nothwind_WareHouse_Program.Resources.resources
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\obj\x86\Debug\Nothwind WareHouse Program.vbproj.GenerateResource.Cache
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\obj\x86\Debug\Nothwind_WareHouse_Program.Admin.resources
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\obj\x86\Debug\Nothwind_WareHouse_Program.Manager.resources
+C:\Users\Abc\Desktop\Nothwind WareHouse Program\Nothwind WareHouse Program\obj\x86\Debug\Nothwind_WareHouse_Program.Warehouse.resources
